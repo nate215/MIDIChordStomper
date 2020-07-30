@@ -1,9 +1,10 @@
  
+ <img src="https://github.com/nate215/MIDIChordStomper/blob/master/ChordStomper.jpg" width="500" height="300"/>
+ 
  MIDI ChordStomper - Nate Nasteff 2019
  
   This code is tested on a Teensy 3.2.
   https://www.pjrc.com/store/teensy32.html
-  
   
   The idea behind this project is to make a MIDI controller that has
   four footpedals which can be assigned to chords (or individual notes), which
